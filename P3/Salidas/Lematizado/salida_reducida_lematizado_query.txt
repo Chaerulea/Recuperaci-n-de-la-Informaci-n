@@ -1,0 +1,64 @@
+1|what article exist which deal with tss time sharing system operating system for ibm computer |
+2|interested article written either prieve udo pooch |
+3|intermediate language used construction multi targeted compiler tcoll |
+4|interested mechanism for communicating between disjoint process possibly but not exclusively distributed environment would rather see description complete mechanism with without implementation opposed theoretical work the abstract problem remote procedure call and message passing are example interest |
+5|like paper design and implementation editing interface window manager command interpreter etc the essential issue are human interface design with view improvement user efficiency effectiveness and satisfaction |
+6|interested article robotics motion planning particularly the geometric and combinatorial aspect are not interested the dynamic arm motion |
+7|interested distributed algorithm concurrent program which process communicate and synchronize using message passing area particular interest include fault tolerance and technique for understanding the correctness these algorithm |
+8|addressing scheme for resource network resource addressing network operating system |
+9|security consideration local network network operating system and distributed system |
+10|parallel language language for parallel computation |
+11|setl very high level language |
+12|portable operating system |
+13|code optimization for space efficiency |
+14|find all discussion optimal implementation sort algorithm for database management application |
+15|find all discussion horizontal microcode optimization with special emphasis optimization loop and global optimization |
+16|find all description file handling operating system based multiple process and message passing |
+17|optimization intermediate and machine code |
+18|language and compiler for parallel processor especially highly horizontal microcoded machine code compaction |
+19|parallel algorithm |
+20|graph theoretic algorithm applicable sparse matrix |
+21|computational complexity intractability class complete reduction algorithm and efficiency |
+22|interested hidden line and hidden surface algorithm for cylinder toroid sphere and cone this rather specialized topic computer graphic |
+23|distributed computing structure and algorithm |
+24|applied stochastic process |
+25|performance evaluation and modelling computer system |
+26|concurrency control mechanism operating system |
+27|memory management aspect operating system |
+28|any information packet radio network particular interest are algorithm for packet routing and for dealing with change network topography not interested the hardware used the network |
+29|number theoretic algorithm especially involving prime number series sieve and chinese remainder theorem |
+30|article text formatting system including what you see what you get system example tnroff scribe bravo |
+31|like find article describing the use singular value decomposition digital image processing application include finding approximation the original image and restoring image that are subject noise article the subject andrew and patterson outer product expansion and their us digital image processing american mathematical monthly vol |
+32|like find article describing graph algorithm that are based the eigenvalue decomposition singular value decomposition the ajacency matrix for the graph especially interested any heuristic algorithm for graph coloring and graph isomorphism using this method |
+33|article about the sensitivity the eigenvalue decomposition real matrix particular zero one matrix especially interested the separation eigenspaces corresponding distinct eigenvalue article the subject davis and kahn the rotation eigenvectors permutation siam numerical analysis vol stewart error bound for approximate invariant subspace closed linear operator siam numerical analysis vol |
+34|currently interested isolation root polynomial there old article heindel acm vol would like find more recent material |
+35|probabilistic algorithm especially those dealing with algebraic and symbolic manipulation some example rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identity siam |
+36|fast algorithm for context free language recognition parsing |
+37|article describing the relationship between data type and concurrency what the type process when synchronization attempt between two process type correct message passing system there any notion the type message any way check that the sender the message and the receiver are both treating the bit stream some particular type |
+38|what the type module dont want the entire literature abstract data type here but not sure how phrase this avoid interested question about how one can check that module match context which used |
+39|what doe type compatibility mean language that allow programmer defined type you might want restrict this extensible language that allow definition abstract data type programmer supplied definition operator like |
+40|list all article dealing with data type the following language pascal clu alphard russell ada algol list any other language that are referenced frequently paper the above language catch any language with interesting type structure that might have missed |
+41|theory distributed system and database subtopics special interest include reliability and fault tolerance distributed system atomicity distributed transaction synchronization algorithm resource allocation lower bound and model for asynchronous parallel system also theory communicating process and protocol |
+42|computer performance evaluation technique using pattern recognition and clustering |
+43|analysis and perception shape human and computer shape description shape recognition computer two dimensional shape measure circularity shape matching |
+44|texture analysis computer digitized texture analysis texture synthesis perception texture |
+45|the use operation research model optimize information system performance this includes fine tuning decision such secondary index selection file reorganization and distributed database |
+46|the application fuzzy subset theory clustering and information retrieval problem this includes performance evaluation and automatic indexing consideration |
+47|the use bayesian decision model optimize information retrieval system performance this includes stopping rule determine when user should cease scanning the output retrieval search |
+48|the use computer science principle data structure numerical method generating optimization linear programming algorithm this includes issue the khachian russian ellipsoidal algorithm and complexity such algorithm |
+49|the role information retrieval knowledge based system expert system |
+50|parallel processor information retrieval |
+51|parallel processor and paging algorithm |
+52|modelling and simulation agricultural ecosystem |
+53|mathematical induction group theory integer modulo probability binomial coefficient binomial theorem homomorphism morphism transitivity relation relation matrix |
+54|semantics programming language including abstract specification data type denotational semantics and proof correctness |
+55|anything dealing with star height regular language regular expression regular event |
+56|article relation the algebraic theory semigroups and monoids the study automaton and regular language |
+57|abstract article backus can programming liberated from the von neumann style functional style and it algebra program cacm  rade millo lipton perlis letter acm forum cacm |
+58|algorithm statistical package for anova regression using least square generalized linear model system design capability statistical formula are interest student test wilcoxon and sign test multivariate and univariate component can included |
+59|dictionary construction and accessing method for fast retrieval word lexical item morphologically related information hashing indexing method are usually applied english spelling natural language problem |
+60|hardware and software relating database management system database package back end computer special associative hardware with microcomputer attached disk head thing like rap relational network codasyl hierarchical model system like system ims adabas total etc |
+61|information retrieval article gerard salton others about clustering bibliographic coupling use citation citation the vector space model boolean search method using inverted file feedback etc |
+62|result relating parallel complexity theory both for pram and uniform circuit |
+63|algorithm for parallel computation and especially comparison between parallel and sequential algorithm |
+64|list all article and ecl may given dont remember how they did |

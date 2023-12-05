@@ -1,0 +1,64 @@
+1|what articles exist which deal with tss time sharing system an operatin system for ibm computer |
+2|i am interest in articles written either by prieve or udo pooch |
+3|intermed language used in construc of multi targeted compiler tcoll |
+4|im interest in mechanis for communic between disjoint processe possibly but not exclusiv in distribu environm i would rather see descript of complete mechanis with or without implemen as opposed to theoreti work on the abstract problem remote procedur calls and message passing are examples of my interest |
+5|id like papers on design and implemen of editing interfac window managers command interpre etc the essentia issues are human interfac design with views on improvem to user efficien effectiv and satisfac |
+6|interest in articles on robotics motion planning particul the geometri and combinat aspects we are not interest in the dynamics of arm motion |
+7|i am interest in distribu algorith concurre programs in which processe communic and synchron by using message passing areas of particul interest include fault toleranc and techniqu for understa the correctn of these algorith |
+8|addressi schemes for resource in networks resource addressi in network operatin systems |
+9|security consider in local networks network operatin systems and distribu systems |
+10|parallel language language for parallel computat |
+11|setl very high level language |
+12|portable operatin systems |
+13|code optimiza for space efficien |
+14|find all discussi of optimal implemen of sort algorith for database manageme applicat |
+15|find all discussi of horizont microcod optimiza with special emphasis on optimiza of loops and global optimiza |
+16|find all descript of file handling in operatin systems based on multiple processe and message passing |
+17|optimiza of intermed and machine code |
+18|language and compiler for parallel processo especial highly horizont microcod machines code compacti |
+19|parallel algorith |
+20|graph theoreti algorith applicab to sparse matrices |
+21|computat complexi intracta class complete reductio algorith and efficien |
+22|i am interest in hidden line and hidden surface algorith for cylinder toroids spheres and cones this is rather speciali topic in computer graphics |
+23|distribu computin structur and algorith |
+24|applied stochast processe |
+25|performa evaluati and modellin of computer systems |
+26|concurre control mechanis in operatin systems |
+27|memory manageme aspects of operatin systems |
+28|any informat on packet radio networks of particul interest are algorith for packet routing and for dealing with changes in network topograp i am not interest in the hardware used in the network |
+29|number theoreti algorith especial involvin prime number series sieves and chinese remainde theorem |
+30|articles on text formatti systems includin what you see is what you get systems examples tnroff scribe bravo |
+31|id like to find articles describi the use of singular value decompos in digital image processi applicat include finding approxim to the original image and restorin images that are subject to noise an article on the subject is hc andrews and cl patterso outer product expansio and their uses in digital image processi american mathemat monthly vol |
+32|id like to find articles describi graph algorith that are based on the eigenval decompos or singular value decompos of the ajacency matrix for the graph im especial interest in any heuristi algorith for graph coloring and graph isomorph using this method |
+33|articles about the sensitiv of the eigenval decompos of real matrices in particul zero one matrices im especial interest in the separati of eigenspa correspo to distinct eigenval articles on the subject c davis and wm kahn the rotation of eigenvec by permutat siam j numerica analysis vol gw stewart error bounds for approxim invarian subspace of closed linear operator siam j numerica analysis vol |
+34|currentl interest in isolatio of root of polynomi there is an old article by heindel in j acm vol i would like to find more recent material |
+35|probabil algorith especial those dealing with algebrai and symbolic manipula some examples rabiin probabil algorith on finite field siam waztch probabil testing of polynomi identiti siam |
+36|fast algorith for context free language recognit or parsing |
+37|articles describi the relation between data types and concurre eg what is the type of process when is synchron attempt between two processe type correct in message passing system is there any notion of the types of messages ie any way to check that the sender of the message and the receiver are both treating the bit stream as some particul type |
+38|what is the type of module i dont want the entire literatu on abstract data types here but im not sure how to phrase this to avoid it im interest in question about how one can check that module matches contexts in which it is used |
+39|what does type compatib mean in language that allow programm defined types you might want to restrict this to extensib language that allow definiti of abstract data types or programm supplied definiti of operator like |
+40|list all articles dealing with data types in the followin language pascal clu alphard russell ada algol list any other language that are referenc frequent in papers on the above language eg catch any language with interest type structur that i might have missed |
+41|theory of distribu systems and database subtopic of special interest include reliabil and fault toleranc in distribu systems atomicit distribu transact synchron algorith resource allocati lower bounds and models for asynchro parallel systems also theory of communic processe and protocol |
+42|computer performa evaluati techniqu using pattern recognit and clusteri |
+43|analysis and percepti of shape by humans and computer shape descript shape recognit by computer two dimensio shapes measures of circular shape matching |
+44|texture analysis by computer digitize texture analysis texture synthesi percepti of texture |
+45|the use of operatio research models to optimize informat system performa this includes fine tuning decision such as secondar index selectio file reorgani and distribu database |
+46|the applicat of fuzzy subset theory to clusteri and informat retrieva problems this includes performa evaluati and automati indexing consider |
+47|the use of bayesian decision models to optimize informat retrieva system performa this includes stopping rules to determin when user should cease scanning the output of retrieva search |
+48|the use of computer science principl eg data structur numerica methods in generati optimiza eg linear programm algorith this includes issues of the khachian russian ellipsoi algorith and complexi of such algorith |
+49|the role of informat retrieva in knowledg based systems ie expert systems |
+50|parallel processo in informat retrieva |
+51|parallel processo and paging algorith |
+52|modellin and simulati in agricult ecosyste |
+53|mathemat inductio group theory integers modulo m probabil binomial coeffici binomial theorem homomorp morphism transiti relation relation matrix |
+54|semantic of programm language includin abstract specific of data types denotati semantic and proofs of correctn |
+55|anything dealing with star height of regular language or regular expressi or regular events |
+56|articles relation the algebrai theory of semigrou and monoids to the study of automata and regular language |
+57|abstract of articles j backus can programm be liberate from the von neumann style function style and its algebra of programs cacm  rade millo rj lipton aj perlis letter to acm forum cacm |
+58|algorith or statisti packages for anova regressi using least squares or generali linear models system design capabili statisti formula are of interest students t test wilcoxon and sign tests multivar and univaria componen can be included |
+59|dictiona construc and accessin methods for fast retrieva of words or lexical items or morpholo related informat hashing or indexing methods are usually applied to english spelling or natural language problems |
+60|hardware and software relating to database manageme systems database packages back end computer special associat hardware with microcom attached to disk heads or things like rap relation or network codasyl or hierarch models systems like system r ims adabas total etc |
+61|informat retrieva articles by gerard salton or others about clusteri bibliogr coupling use of citation or co citation the vector space model boolean search methods using inverted files feedback etc |
+62|results relating parallel complexi theory both for prams and uniform circuits |
+63|algorith for parallel computat and especial comparis between parallel and sequenti algorith |
+64|list all articles on and ecl may be given as i dont remember how they did it |

@@ -1,0 +1,64 @@
+1|what article exist which deal with tss time sharing system an operating system for ibm computer |
+2|i am interested in article written either by prieve or udo pooch |
+3|intermediate language used in construction of multi targeted compiler tcoll |
+4|im interested in mechanism for communicating between disjoint process possibly but not exclusively in distributed environment i would rather see description of complete mechanism with or without implementation opposed to theoretical work on the abstract problem remote procedure call and message passing are example of my interest |
+5|id like paper on design and implementation of editing interface window manager command interpreter etc the essential issue are human interface design with view on improvement to user efficiency effectiveness and satisfaction |
+6|interested in article on robotics motion planning particularly the geometric and combinatorial aspect we are not interested in the dynamic of arm motion |
+7|i am interested in distributed algorithm concurrent program in which process communicate and synchronize by using message passing area of particular interest include fault tolerance and technique for understanding the correctness of these algorithm |
+8|addressing scheme for resource in network resource addressing in network operating system |
+9|security consideration in local network network operating system and distributed system |
+10|parallel language language for parallel computation |
+11|setl very high level language |
+12|portable operating system |
+13|code optimization for space efficiency |
+14|find all discussion of optimal implementation of sort algorithm for database management application |
+15|find all discussion of horizontal microcode optimization with special emphasis on optimization of loop and global optimization |
+16|find all description of file handling in operating system based on multiple process and message passing |
+17|optimization of intermediate and machine code |
+18|language and compiler for parallel processor especially highly horizontal microcoded machine code compaction |
+19|parallel algorithm |
+20|graph theoretic algorithm applicable to sparse matrix |
+21|computational complexity intractability class complete reduction algorithm and efficiency |
+22|i am interested in hidden line and hidden surface algorithm for cylinder toroid sphere and cone this is rather specialized topic in computer graphic |
+23|distributed computing structure and algorithm |
+24|applied stochastic process |
+25|performance evaluation and modelling of computer system |
+26|concurrency control mechanism in operating system |
+27|memory management aspect of operating system |
+28|any information on packet radio network of particular interest are algorithm for packet routing and for dealing with change in network topography i am not interested in the hardware used in the network |
+29|number theoretic algorithm especially involving prime number series sieve and chinese remainder theorem |
+30|article on text formatting system including what you see is what you get system example tnroff scribe bravo |
+31|id like to find article describing the use of singular value decomposition in digital image processing application include finding approximation to the original image and restoring image that are subject to noise an article on the subject is hc andrew and cl patterson outer product expansion and their us in digital image processing american mathematical monthly vol |
+32|id like to find article describing graph algorithm that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph im especially interested in any heuristic algorithm for graph coloring and graph isomorphism using this method |
+33|article about the sensitivity of the eigenvalue decomposition of real matrix in particular zero one matrix im especially interested in the separation of eigenspaces corresponding to distinct eigenvalue article on the subject c davis and wm kahn the rotation of eigenvectors by permutation siam j numerical analysis vol gw stewart error bound for approximate invariant subspace of closed linear operator siam j numerical analysis vol |
+34|currently interested in isolation of root of polynomial there is an old article by heindel in j acm vol i would like to find more recent material |
+35|probabilistic algorithm especially those dealing with algebraic and symbolic manipulation some example rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identity siam |
+36|fast algorithm for context free language recognition or parsing |
+37|article describing the relationship between data type and concurrency eg what is the type of process when is synchronization attempt between two process type correct in message passing system is there any notion of the type of message ie any way to check that the sender of the message and the receiver are both treating the bit stream some particular type |
+38|what is the type of module i dont want the entire literature on abstract data type here but im not sure how to phrase this to avoid it im interested in question about how one can check that module match context in which it is used |
+39|what doe type compatibility mean in language that allow programmer defined type you might want to restrict this to extensible language that allow definition of abstract data type or programmer supplied definition of operator like |
+40|list all article dealing with data type in the following language pascal clu alphard russell ada algol list any other language that are referenced frequently in paper on the above language eg catch any language with interesting type structure that i might have missed |
+41|theory of distributed system and database subtopics of special interest include reliability and fault tolerance in distributed system atomicity distributed transaction synchronization algorithm resource allocation lower bound and model for asynchronous parallel system also theory of communicating process and protocol |
+42|computer performance evaluation technique using pattern recognition and clustering |
+43|analysis and perception of shape by human and computer shape description shape recognition by computer two dimensional shape measure of circularity shape matching |
+44|texture analysis by computer digitized texture analysis texture synthesis perception of texture |
+45|the use of operation research model to optimize information system performance this includes fine tuning decision such secondary index selection file reorganization and distributed database |
+46|the application of fuzzy subset theory to clustering and information retrieval problem this includes performance evaluation and automatic indexing consideration |
+47|the use of bayesian decision model to optimize information retrieval system performance this includes stopping rule to determine when user should cease scanning the output of retrieval search |
+48|the use of computer science principle eg data structure numerical method in generating optimization eg linear programming algorithm this includes issue of the khachian russian ellipsoidal algorithm and complexity of such algorithm |
+49|the role of information retrieval in knowledge based system ie expert system |
+50|parallel processor in information retrieval |
+51|parallel processor and paging algorithm |
+52|modelling and simulation in agricultural ecosystem |
+53|mathematical induction group theory integer modulo m probability binomial coefficient binomial theorem homomorphism morphism transitivity relation relation matrix |
+54|semantics of programming language including abstract specification of data type denotational semantics and proof of correctness |
+55|anything dealing with star height of regular language or regular expression or regular event |
+56|article relation the algebraic theory of semigroups and monoids to the study of automaton and regular language |
+57|abstract of article j backus can programming be liberated from the von neumann style functional style and it algebra of program cacm  rade millo rj lipton aj perlis letter to acm forum cacm |
+58|algorithm or statistical package for anova regression using least square or generalized linear model system design capability statistical formula are of interest student t test wilcoxon and sign test multivariate and univariate component can be included |
+59|dictionary construction and accessing method for fast retrieval of word or lexical item or morphologically related information hashing or indexing method are usually applied to english spelling or natural language problem |
+60|hardware and software relating to database management system database package back end computer special associative hardware with microcomputer attached to disk head or thing like rap relational or network codasyl or hierarchical model system like system r ims adabas total etc |
+61|information retrieval article by gerard salton or others about clustering bibliographic coupling use of citation or co citation the vector space model boolean search method using inverted file feedback etc |
+62|result relating parallel complexity theory both for pram and uniform circuit |
+63|algorithm for parallel computation and especially comparison between parallel and sequential algorithm |
+64|list all article on and ecl may be given i dont remember how they did it |

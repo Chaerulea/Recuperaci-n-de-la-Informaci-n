@@ -1,0 +1,64 @@
+1|what articles exist which deal with tss time sharing system operatin system for ibm computer |
+2|interest articles written either prieve udo pooch |
+3|intermed language used construc multi targeted compiler tcoll |
+4|interest mechanis for communic between disjoint processe possibly but not exclusiv distribu environm would rather see descript complete mechanis with without implemen opposed theoreti work the abstract problem remote procedur calls and message passing are examples interest |
+5|like papers design and implemen editing interfac window managers command interpre etc the essentia issues are human interfac design with views improvem user efficien effectiv and satisfac |
+6|interest articles robotics motion planning particul the geometri and combinat aspects are not interest the dynamics arm motion |
+7|interest distribu algorith concurre programs which processe communic and synchron using message passing areas particul interest include fault toleranc and techniqu for understa the correctn these algorith |
+8|addressi schemes for resource networks resource addressi network operatin systems |
+9|security consider local networks network operatin systems and distribu systems |
+10|parallel language language for parallel computat |
+11|setl very high level language |
+12|portable operatin systems |
+13|code optimiza for space efficien |
+14|find all discussi optimal implemen sort algorith for database manageme applicat |
+15|find all discussi horizont microcod optimiza with special emphasis optimiza loops and global optimiza |
+16|find all descript file handling operatin systems based multiple processe and message passing |
+17|optimiza intermed and machine code |
+18|language and compiler for parallel processo especial highly horizont microcod machines code compacti |
+19|parallel algorith |
+20|graph theoreti algorith applicab sparse matrices |
+21|computat complexi intracta class complete reductio algorith and efficien |
+22|interest hidden line and hidden surface algorith for cylinder toroids spheres and cones this rather speciali topic computer graphics |
+23|distribu computin structur and algorith |
+24|applied stochast processe |
+25|performa evaluati and modellin computer systems |
+26|concurre control mechanis operatin systems |
+27|memory manageme aspects operatin systems |
+28|any informat packet radio networks particul interest are algorith for packet routing and for dealing with changes network topograp not interest the hardware used the network |
+29|number theoreti algorith especial involvin prime number series sieves and chinese remainde theorem |
+30|articles text formatti systems includin what you see what you get systems examples tnroff scribe bravo |
+31|like find articles describi the use singular value decompos digital image processi applicat include finding approxim the original image and restorin images that are subject noise article the subject andrews and patterso outer product expansio and their uses digital image processi american mathemat monthly vol |
+32|like find articles describi graph algorith that are based the eigenval decompos singular value decompos the ajacency matrix for the graph especial interest any heuristi algorith for graph coloring and graph isomorph using this method |
+33|articles about the sensitiv the eigenval decompos real matrices particul zero one matrices especial interest the separati eigenspa correspo distinct eigenval articles the subject davis and kahn the rotation eigenvec permutat siam numerica analysis vol stewart error bounds for approxim invarian subspace closed linear operator siam numerica analysis vol |
+34|currentl interest isolatio root polynomi there old article heindel acm vol would like find more recent material |
+35|probabil algorith especial those dealing with algebrai and symbolic manipula some examples rabiin probabil algorith finite field siam waztch probabil testing polynomi identiti siam |
+36|fast algorith for context free language recognit parsing |
+37|articles describi the relation between data types and concurre what the type process when synchron attempt between two processe type correct message passing system there any notion the types messages any way check that the sender the message and the receiver are both treating the bit stream some particul type |
+38|what the type module dont want the entire literatu abstract data types here but not sure how phrase this avoid interest question about how one can check that module matches contexts which used |
+39|what does type compatib mean language that allow programm defined types you might want restrict this extensib language that allow definiti abstract data types programm supplied definiti operator like |
+40|list all articles dealing with data types the followin language pascal clu alphard russell ada algol list any other language that are referenc frequent papers the above language catch any language with interest type structur that might have missed |
+41|theory distribu systems and database subtopic special interest include reliabil and fault toleranc distribu systems atomicit distribu transact synchron algorith resource allocati lower bounds and models for asynchro parallel systems also theory communic processe and protocol |
+42|computer performa evaluati techniqu using pattern recognit and clusteri |
+43|analysis and percepti shape humans and computer shape descript shape recognit computer two dimensio shapes measures circular shape matching |
+44|texture analysis computer digitize texture analysis texture synthesi percepti texture |
+45|the use operatio research models optimize informat system performa this includes fine tuning decision such secondar index selectio file reorgani and distribu database |
+46|the applicat fuzzy subset theory clusteri and informat retrieva problems this includes performa evaluati and automati indexing consider |
+47|the use bayesian decision models optimize informat retrieva system performa this includes stopping rules determin when user should cease scanning the output retrieva search |
+48|the use computer science principl data structur numerica methods generati optimiza linear programm algorith this includes issues the khachian russian ellipsoi algorith and complexi such algorith |
+49|the role informat retrieva knowledg based systems expert systems |
+50|parallel processo informat retrieva |
+51|parallel processo and paging algorith |
+52|modellin and simulati agricult ecosyste |
+53|mathemat inductio group theory integers modulo probabil binomial coeffici binomial theorem homomorp morphism transiti relation relation matrix |
+54|semantic programm language includin abstract specific data types denotati semantic and proofs correctn |
+55|anything dealing with star height regular language regular expressi regular events |
+56|articles relation the algebrai theory semigrou and monoids the study automata and regular language |
+57|abstract articles backus can programm liberate from the von neumann style function style and its algebra programs cacm  rade millo lipton perlis letter acm forum cacm |
+58|algorith statisti packages for anova regressi using least squares generali linear models system design capabili statisti formula are interest students test wilcoxon and sign tests multivar and univaria componen can included |
+59|dictiona construc and accessin methods for fast retrieva words lexical items morpholo related informat hashing indexing methods are usually applied english spelling natural language problems |
+60|hardware and software relating database manageme systems database packages back end computer special associat hardware with microcom attached disk heads things like rap relation network codasyl hierarch models systems like system ims adabas total etc |
+61|informat retrieva articles gerard salton others about clusteri bibliogr coupling use citation citation the vector space model boolean search methods using inverted files feedback etc |
+62|results relating parallel complexi theory both for prams and uniform circuits |
+63|algorith for parallel computat and especial comparis between parallel and sequenti algorith |
+64|list all articles and ecl may given dont remember how they did |
